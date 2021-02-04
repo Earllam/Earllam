@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Kobayashi🐣 </h2>
+<h2> Hi there, I'm Kobayashi. </h2>
 
 A front-end developer🎯 from China.
 - 🌱 I’m currently learning Vue, React and Node
