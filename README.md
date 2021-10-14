@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/Earllam/Earllam/main/banner.png)
+
 <h2> Hi there, I'm Earl Lam👋. </h2>
 
 A front-end developer from China.
