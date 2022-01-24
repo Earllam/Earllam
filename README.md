@@ -4,7 +4,7 @@
 
 A front-end developer from China.
 - 🌱 I’m currently learning Vue, React and Node
-- 📫 How to reach me: You can follow me on [juejin](https://juejin.cn/user/2189882893286808) or [linwene.cn](https://linwene.cn)
+- 📫 How to reach me: You can follow me on [juejin](https://juejin.cn/user/2189882893286808)
 
 **Languages:**  
 
